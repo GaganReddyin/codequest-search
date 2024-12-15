@@ -2,7 +2,7 @@
 forgot the question name of a particular website. No worries, go to our website and search for your questions by putting relevant keywords and hit search; you can also set the platform you wanna stick to.
 
 
-# Search Enginehttps://github.com/issues
+# Search Engine
 
 A search engine that allows users to search for questions based on their query. The search engine consists of three main stages: web scraping, TF-IDF algorithm, and a Node.js and React web application.
 
