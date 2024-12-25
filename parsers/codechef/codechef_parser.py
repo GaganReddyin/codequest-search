@@ -1,6 +1,6 @@
 import requests
 
-siteUrl = "https://www.codechef.com/problems/"
+siteUrl = "https://www.codechef.com/problems/" 
 
 questionNameList = []
 questionLinkList = []
