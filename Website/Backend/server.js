@@ -12,7 +12,7 @@ app.post("/api/search", (req, res) => {
   const query = req.body.query; // Get the query from the request body
 
   // Execute the Python script with the provided query
-  const pythonProcess = spawn("python", ["../../TF-IDF/query.py", query]);
+  const pythonProcess = spawn("python", ["../../TF-IDF/query.py", query]); 
 
   let outputData = "";
 
