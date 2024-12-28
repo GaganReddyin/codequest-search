@@ -8,7 +8,7 @@ def preprocess_name(name):
     #remove number. from the name 
     #removing the digits
     pattern = r'\d+'
-    name = re.sub(pattern, ' ', name)
+    name = re.sub(pattern, ' ', name)  
     
     #remove dots and starting and ending spaces
     name = name.replace('.', ' ')
