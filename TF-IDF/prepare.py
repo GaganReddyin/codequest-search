@@ -5,7 +5,7 @@ import math
 import json 
  
 def preprocess_name(name):
-    #remove number. from the name
+    #remove number. from the name 
     #removing the digits
     pattern = r'\d+'
     name = re.sub(pattern, ' ', name)
